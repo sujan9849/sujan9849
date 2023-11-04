@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sujan9849
-- 👀 I’m interested in python Django
-- 🌱 I’m currently learning python
+- 👋 Hi, I’m Sujan Shrestha
+- 👀 I’m data analyst
+- 🌱 I’m currently learning python and data storytelling
 - 📫 How to reach me "sujanshr9849@gmail.com"
 
 <!---
